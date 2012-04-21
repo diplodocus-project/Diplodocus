@@ -1,0 +1,23 @@
+Cython==0.15.1
+Flask==0.8
+Jinja2==2.6
+-e git://github.com/jraedler/Polygon2.git@49a5fa3720feae00e3e1ddb08d74ccddec634d8a#egg=Polygon-dev
+PyYAML==3.10
+Werkzeug==0.8.3
+certifi==0.0.8
+chardet==1.0.1
+circus==0.3.1
+elementtree==1.2.7-20070827-preview
+fudge==1.0.3
+-e git://github.com/kartograph/kartograph.py.git@71b5bdb48358a40173c3553f2329865a887d43f9#egg=kartograph.py-dev
+nose==1.1.2
+pyshp==1.1.4
+python-Levenshtein==0.10.2
+pyzmq==2.2dev
+redis==2.4.11
+redisco==0.1.4
+requests==0.10.1
+simplejson==2.5.0
+soundcloud==0.3
+ujson==1.18
+wsgiref==0.1.2
