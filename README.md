@@ -1,7 +1,8 @@
 Diplodocus
 ==========
-
 Change the way you educate
+
+Diplodocus is a platform that wishes to help future students chose what they want to study.
 
 ## Installation
 To install, start by
