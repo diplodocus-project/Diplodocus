@@ -4,6 +4,9 @@ Change the way you educate
 
 Diplodocus is a platform that wishes to help future students chose what they want to study.
 
+We want to gather and map all data that is necessary for a student when choosing his future studies: professional insertion of different type of diplomas, cost of living, opportunity for internships, etc. 
+
+
 ## Installation
 To install, start by
 ```python
